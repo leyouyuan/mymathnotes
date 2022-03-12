@@ -1,5 +1,15 @@
 ## 九点圆定理
-
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 # I. 内容:
 
 - $\triangle ABC$的三边中点![](http://latex.codecogs.com/svg.latex?D、E、F)，三个高足![](http://latex.codecogs.com/svg.latex?I、J、K)，垂心和顶点的连线的中点$X、Y、Z$,九个点共圆
